@@ -4,8 +4,6 @@ using UnityEngine;
 using System;
 using System.Reflection;
 
-// More optimized option would be to create dictionary and put ad identificator Enum and as result delegate
-
 public enum ProjectileEffect { None, ArmorReducer, SpeedReducer, Overloader, MagicBlocker, BasicBlocker };
 public static class BulletFactory
 {
