@@ -1,2 +1,2 @@
 # BattleStations
-Game created in week long game jam
+Game created in a 2 week long game jam
